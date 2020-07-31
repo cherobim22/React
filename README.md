@@ -5,6 +5,8 @@ Uma biblioteca JavaScript para criar interfaces de usuário SPA, baseado em comp
 ## comandos usados
 
 ```sh
+$ npm install
+
 Create react App
 $ npx create-react-app my-app
 
