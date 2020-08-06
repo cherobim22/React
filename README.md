@@ -9,11 +9,11 @@ Dependencies
   $ npm install
 
 Create react App
-$ npx create-react-app my-app
+  $ npx create-react-app my-app
 
 Axios
-$ npm install axios
+  $ npm install axios
 
 FeatherIcons
-$ npm install react-icons
+  $ npm install react-icons
 ```
