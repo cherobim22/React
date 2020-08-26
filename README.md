@@ -11,8 +11,4 @@ Dependencies
 Create react App
   $ npx create-react-app my-app
 
-Axios
-  $ npm install axios
-
-
 ```
