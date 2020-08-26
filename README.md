@@ -14,6 +14,5 @@ Create react App
 Axios
   $ npm install axios
 
-FeatherIcons
-  $ npm install react-icons
+
 ```
