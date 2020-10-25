@@ -31,9 +31,9 @@ export default function Header(){
             <section className="container-input row">
                 <div className="input">
                     <form onSubmit={handleRegister}>
-                        <input type="text" placeholder="Name" value={name} onChange={e => setName(e.target.value)}/>
-                        <textarea type="text" placeholder="About task" value={description} onChange={e => setDescription(e.target.value)}/>
-                        <button className="button-save" type="submit" >Save</button>
+                        <input type="text" placeholder="Nome" value={name} onChange={e => setName(e.target.value)}/>
+                        <textarea type="text" placeholder="Sobre a tarefa" value={description} onChange={e => setDescription(e.target.value)}/>
+                        <button className="button-save" type="submit" >Salvar</button>
                     </form>
                 </div>
             </section>
