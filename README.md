@@ -4,7 +4,7 @@ Uma biblioteca JavaScript para criar interfaces de usuário SPA, baseado em comp
 
 ## To Do List
 
-<img src="./To_do.png" width="800">
+<!-- <img src="./To_do.png" width="800"> -->
 
 ## comandos usados
 
