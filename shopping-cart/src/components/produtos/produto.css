@@ -6,7 +6,7 @@
 }
 
 .main{
-    margin-left: 50%;
+    /* margin-left: 50%; */
     width: 450px;
     border-radius: 10px;
     /* display: flex; */
@@ -113,6 +113,11 @@
     font-size: 18px;
     font-weight: bold;
     color: cornsilk;
-    background: rgb(61, 17, 255);
+    background: #0069D9;
     border-radius: 8px;
+    opacity: 0.8;
+}
+
+button:hover{
+    opacity: 1;
 }
