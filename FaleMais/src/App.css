@@ -1,0 +1,13 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  scroll-behavior: smooth;
+}
+.App {
+  
+  height: 100vh;
+  width: 100%;
+}
+
