@@ -1,0 +1,84 @@
+{
+    "chamadas":[
+        {
+            "origem": "11",
+            "destino": "11",
+            "tarifa": "0"
+        },
+        {
+            "origem": "11",
+            "destino": "16",
+            "tarifa": "1.90"
+        },
+        {
+            "origem": "11",
+            "destino": "17",
+            "tarifa": "2.00"
+        },
+        {
+            "origem": "11",
+            "destino": "18",
+            "tarifa": "2.10"
+        },
+        {
+            "origem": "16",
+            "destino": "16",
+            "tarifa": "0"
+        },
+        {
+            "origem": "16",
+            "destino": "11",
+            "tarifa": "2.90"
+        },
+        {
+            "origem": "16",
+            "destino": "17",
+            "tarifa": "1.30"
+        },
+        {
+            "origem": "16",
+            "destino": "18",
+            "tarifa": "1.80"
+        },
+        {
+            "origem": "17",
+            "destino": "17",
+            "tarifa": "0"
+        },
+        {
+            "origem": "17",
+            "destino": "11",
+            "tarifa": "1.90"
+        },
+        {
+            "origem": "17",
+            "destino": "16",
+            "tarifa": "0.30"
+        },
+        {
+            "origem": "17",
+            "destino": "18",
+            "tarifa": "0.70"
+        },
+        {
+            "origem": "18",
+            "destino": "18",
+            "tarifa": "0"
+        },
+        {
+            "origem": "18",
+            "destino": "11",
+            "tarifa": "1.90"
+        },
+        {
+            "origem": "18",
+            "destino": "16",
+            "tarifa": "0.20"
+        },
+        {
+            "origem": "18",
+            "destino": "17",
+            "tarifa": "0.90"
+        }
+    ]
+}

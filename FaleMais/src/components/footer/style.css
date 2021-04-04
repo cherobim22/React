@@ -1,0 +1,24 @@
+.footer{
+    width: 100%;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ad58b2;
+    color: white;
+}
+
+@media screen and (min-width: 310px) and (max-width: 800px){
+    .footer{
+        margin-top: 10%;
+        font-size: 12px;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1366px){
+    .footer{
+        position: fixed;
+    }
+}
